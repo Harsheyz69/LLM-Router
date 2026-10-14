@@ -72,3 +72,6 @@ htmlcov/
 research/datasets/*.csv
 research/datasets/*.jsonl
 research/results/*.json
+
+# Example environment file (do not commit)
+.env.example
